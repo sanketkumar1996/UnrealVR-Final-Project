@@ -26,3 +26,5 @@ The timer, keeps running above the head.
 
 ## Locomotion
 To move around the scene, you need to touch the touchpad of the motion controllers (Vive), to move forward - slide the fingers on the touchpad in the forward direction, to move right/left - slide the fingers in the right/left directions. 
+
+#This is VIVE only project, since it uses touchpad for locomotion !
